@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77a73f35-1791-4032-800c-8e0ba9d0305a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/BlockCommand.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/BlockMaker.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/BlockMaker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/Fusion360Utilities/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/Fusion360Utilities/Fusion360CommandBase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/Fusion360Utilities/Fusion360DebugUtilities.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/Fusion360Utilities/Fusion360Utilities.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/resources/16x16-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/resources/16x16-disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/resources/16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/resources/32x32-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/resources/32x32-disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/resources/32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/resources/64x64-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/BlockMaker/resources/64x64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/Fusion360Utilities/Fusion360CommandBase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/Fusion360Utilities/Fusion360DebugUtilities.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/Fusion360Utilities/Fusion360Utilities.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/HoleMaker.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/HoleMaker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/HolesCommand.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/holes_csv.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/resources/16x16-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/resources/16x16-disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/resources/16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/resources/32x32-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/resources/32x32-disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/resources/32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/resources/64x64-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-ins/HoleMaker/resources/64x64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documents/Fusion 360 API-Rainsberry-F360ACADEMY19.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/Fusion 360 API-Rainsberry-F360ACADEMY19.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documents/Fusion API Class.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Block/Block.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Block/Block.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Block_Params/Block_Params.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Block_Params/Block_Params.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Block_input/Block_input.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Block_input/Block_input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/README_cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documents/Fusion 360 API-Rainsberry-F360ACADEMY19.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565120045565</updated>
       <workItem from="1565120046762" duration="749000" />
-      <workItem from="1565123143356" duration="833000" />
+      <workItem from="1565123143356" duration="1115000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1565123193366</created>
