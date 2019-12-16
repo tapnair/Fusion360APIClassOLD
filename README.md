@@ -3,10 +3,18 @@ Set of Sample Scripts, Add-ins and Utilities for my Fusion 360 API Intro class
 
 ![Cover](./resources/README_cover.png)
 
-
-
 ## Creating Add-ins:
-* To start creating add-ins of your own use this [Framework](https://github.com/tapnair/apper)
+To start creating add-ins of your own use the Apper framework:
+
+* [Source Code](https://github.com/tapnair/apper)
+
+* [Documentation](https://apper.readthedocs.io/en/latest/index.html)
+
+Learn more by watching one of these live presentations:
+
+* [2019 Autodesk University Class](https://www.autodesk.com/autodesk-university/class/Automating-Fusion-360-API-2019)
+
+* [Fusion Academy, Portland - API Class](https://f360ap.autodesk.com/courses/fusion-360-academy-portland-2019-mechanical-engineering/lessons/fusion-360-api)
 
 ## Samples:
 [My main page for these projects](https://tapnair.github.io/index.html) 
