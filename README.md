@@ -12,9 +12,13 @@ To start creating add-ins of your own use the Apper framework:
 
 Learn more by watching one of these live presentations:
 
-* [2019 Autodesk University Class](https://www.autodesk.com/autodesk-university/class/Automating-Fusion-360-API-2019)
+* [Getting Started Class, Autodesk University 2020](https://www.autodesk.com/autodesk-university/class/Getting-Started-Fusion-360-API-2020)
 
-* [Fusion Academy, Portland - API Class](https://f360ap.autodesk.com/courses/fusion-360-academy-portland-2019-mechanical-engineering/lessons/fusion-360-api)
+* [Power-Ups and Cheat Codes: Tips and Tricks for the Fusion 360 API, Autodesk University 2020](https://www.autodesk.com/autodesk-university/class/Power-Ups-and-Cheat-Codes-Tips-and-Tricks-Fusion-360-API-2020)
+
+* [Getting Started Class, Autodesk University 2019](https://www.autodesk.com/autodesk-university/class/Automating-Fusion-360-API-2019)
+
+* [Getting Started Class, Fusion Academy, Portland](https://f360ap.autodesk.com/courses/fusion-360-academy-portland-2019-mechanical-engineering/lessons/fusion-360-api)
 
 ## Samples:
 [My main page for these projects](https://tapnair.github.io/index.html) 
